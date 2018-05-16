@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+; Deletes all madVR registry entries and settings!
+[-HKEY_CURRENT_USER\Software\madshi\madVR]
